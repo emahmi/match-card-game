@@ -1,7 +1,7 @@
 <table >
 <th align="center">Match Card Game</th>
 <tr>
-<td align="center">Find the matching card by fliping over.</td>
+<td align="center">Find the matching card by flipping over.</td>
 </tr>
 <tr>
 <td align="center">This game is made by using JavaScript, HTML and CSS. </td>
